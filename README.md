@@ -4,7 +4,7 @@ using the <a href="https://en.wikipedia.org/wiki/Discontinuous_Galerkin_method">
 discontinuous Galerkin (DG) method</a>.
 
 
-** Note **
+**Note**
 This is refactored code from the 
 <a href="https://www.dealii.org/8.4.0/doxygen/deal.II/step_30.html">
 step-30</a> in the deal.ii tutorial. The capabilities of anisotropic 
@@ -25,7 +25,7 @@ See the dealii library for installation instructions and help installing trilino
 **Compiling**
 To generate a makefile for this code using CMake type into the terminal:
 
-cmake . -DDEAL_II_DIR=/path_to_deal.ii
+*cmake . -DDEAL_II_DIR=/path_to_deal.ii*
 
 To can compile the code use:
 
