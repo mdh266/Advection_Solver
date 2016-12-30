@@ -1,7 +1,7 @@
 This code is designed to numerically solve the steady-state
  <a href="https://en.wikipedia.org/wiki/Advection">advection equation</a> 
 using the <a href="https://en.wikipedia.org/wiki/Discontinuous_Galerkin_method">
-discontinuous Galerkin (DG) method.</a>.
+discontinuous Galerkin (DG) method</a>.
 
 
 ** Note **
